@@ -12,6 +12,10 @@ In this notebook we will start with image processing in Python using this librar
 In this lesson we will apply **`OpenCV`** functions to perform the reading of a video, as well as selecting and displaying the region of interest of a road. Finally, the steering algorithm will be shown.
 
 ## Final results
+At the end of this first part we'll be able to display 3 different videos:
+* The original video
+* The binarized video (with a region of interest)
+* The aerial view (with de direction algorithm)
 
 ![final_result_1](figures/final_result_1.gif)
 ![final_result_1](figures/final_result_2.gif)
@@ -19,6 +23,7 @@ In this lesson we will apply **`OpenCV`** functions to perform the reading of a 
 
 ## Required libraries
 For this notebooks we need to have the following libraries installed:
-* NumPy
-* Matplotlib
-* OpenCV
+* [NumPy](https://numpy.org/install/)
+* [Matplotlib](https://matplotlib.org/users/installing.html)
+* [OpenCV - Windows](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_setup/py_setup_in_windows/py_setup_in_windows.html)
+* OpenCV - miniconda or Anaconda: `conda install opencv`
