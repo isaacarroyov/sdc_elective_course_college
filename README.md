@@ -1,4 +1,4 @@
-# Self-Driving Cars (_Elective Course_): Computer Vision and (a grasp of) Deep Learning 👁 💻 🧠
+# Self-Driving Cars (_Elective Course_): Computer Vision and (a little bit of) Deep Learning 👁 💻 🧠
 
 ## Information about the course
 This course is aimed to use the knowledge we gain during the elective courses “Introduction to Data Science” and “Data Science”:
