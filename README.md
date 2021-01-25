@@ -53,7 +53,6 @@ Work in progress... :hourglass_flowing_sand:
   * **Google Colab:** With a Google account you can access freely to a Google Colab notebook and use Python and the many Data Science libraries without installing anything in your local computer, everything in the cloud. For more information watch the following [_video_](https://www.youtube.com/watch?v=inN8seMm7UI)
 * **Python Libraries**
   * OpenCV `pip install opencv-python`
-  * NumPy `pip install numpy` or
-  * Pandas `pip install pandas` or
-  * Tensorflow
-  * augmentation stuff
+  * NumPy `pip install numpy`
+  * Pandas `pip install pandas`
+  * Matplotlib `pip install matplotlib`
