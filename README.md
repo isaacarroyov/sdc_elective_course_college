@@ -19,7 +19,7 @@ Since the day I finished (or even earlier) my elective course “Data Science”
 
 Computer Vision is a topic that intimidated me but the incredible applications and the beauty behind it encouraged me to take on the challenge and try my best and here’s where the elective course “Self-Driving Cars” came into the game.
 
-I love science (specially Physics), math and the broad field of Artificial Intelligence (AI), take this as part of my journey discovering and exploring what can I bring to the world (and what I like).
+I love science (specially Physics), math and the broad field of Artificial Intelligence (AI). I take this as part of my journey discovering and exploring what can I bring to the world (and what I like).
 
 I think I have a special way of seeing and interpreting the things I’ve learned, so the Jupyter notebooks contain the way my understanding of the concept is.
 
@@ -34,7 +34,7 @@ In this section I learned the necessary commands in OpenCV to identify the road 
 ### Section II: Object detection (_Watch out!_) :walking: :red_car: :traffic_light:
 In orden to identify and show the location of certain object we learn how to use the Haar Cascade Classifier in static images and in some videos.
 * **L04:** Object detection (humans, cars and stop signs) - work in progress... :hourglass_flowing_sand:
-* **L05:** Color detection (traffic lights) - work in progress... :hourglass_flowing_sand:
+* **L05:** Colour detection (traffic lights) - work in progress... :hourglass_flowing_sand:
 
 ### Section III: Section I + Section II (_We are all in this together... :musical_note:_) :red_car: + 🛣 + :traffic_light: + :computer:
 This section contains the activity where I grab the commands and algorithms  from the past sections and put it all together in one **.py** file.
