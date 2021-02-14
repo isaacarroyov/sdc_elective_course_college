@@ -26,7 +26,7 @@ I think I have a way to see and interpret the things I’ve learned, so the Jupy
 
 ## Table of contents
 ### Section I: Road recognition (_Where am I heading?_) 🛣
-IIn this section, I learned the necessary commands in OpenCV to identify the road and show the car's direction it's heading.
+In this section, I learned the necessary commands in OpenCV to identify the road and show the car's direction it's heading.
 
 * **L01:** Basics of image manipulation :white_check_mark:
 * **L02:** Region of interest and direction algorithm :white_check_mark:
