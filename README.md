@@ -25,26 +25,26 @@ I think I have a way to see and interpret the things I’ve learned, so the Jupy
 
 
 ## Table of contents
-### Section I: Road recognition (_Where am I heading?_) 🛣
+### Part I: Road recognition (_Where am I heading?_) 🛣
 In this section, I learned the necessary commands in OpenCV to identify the road and show the car's direction it's heading.
 
 * **L01:** Basics of image manipulation :white_check_mark:
 * **L02:** Region of interest and direction algorithm :white_check_mark:
 
-### Section II: Object detection (_Watch out!_) :walking: :red_car: :traffic_light:
+### Part II: Object detection (_Watch out!_) :walking: :red_car: :traffic_light:
 To identify and show where some objects are, we learned how to use the Haar Cascade Classifier in static images and videos.
 * **L03:** Object detection (humans, cars and stop signs) - work in progress... :hourglass_flowing_sand:
 * **L04:** Colour detection (traffic lights) - work in progress... :hourglass_flowing_sand:
 
-### Section III: Section I + Section II (_We are all in this together... :musical_note:_) :red_car: + 🛣 + :traffic_light: + :computer:
+### Part III: Part I + Part II (_We are all in this together... :musical_note:_) :red_car: + 🛣 + :traffic_light: + :computer:
 This section contains the activity where I grabbed the commands and algorithms from the last sections and put them all together in one **.py** file.
 * **L05:** Final result - work in progress... :hourglass_flowing_sand:
 
-### Section IV: Udacity Self-Driving Car (_using a neural network for our car_) :blue_car:
+### Part IV: Udacity Self-Driving Car (_using a neural network for our car_) :blue_car:
 To learn one of the applications of Artificial Neural Networks (ANN) we use the architecture for this kind of challenges... a Convolutional Neural Network (CNN)
 * **L06:** Udacity Self-Driving - work in progress...:hourglass_flowing_sand:
 
-### Section V:  YOLO (You Only Look Once :eyes: )
+### Part V:  YOLO (You Only Look Once :eyes: )
 Work in progress... :hourglass_flowing_sand:
 
 ## Software requirements
